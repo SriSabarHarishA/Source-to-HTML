@@ -1,0 +1,35 @@
+body
+{
+    background-color: black;
+    color: white;
+}
+
+.keyword
+{
+    color: green;
+}
+
+.comment
+{
+    color: blue;
+}
+
+.preprocessor
+{
+    color: purple;
+}
+
+.string
+{
+    color: magenta;
+}
+
+.number
+{
+    color: brown;
+}
+
+.ascii
+{
+    color: firebrick;
+}
